@@ -1,0 +1,6 @@
+colorama
+validate_docbr
+discord_webhook
+requests
+cryptography
+discord-webhook

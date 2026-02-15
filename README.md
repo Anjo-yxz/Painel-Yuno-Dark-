@@ -10,6 +10,8 @@ Cada função foi pensada para executar de forma direta, fria e eficiente.
 
 # ⚙️ Funções
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 🔐 Criptografia de arquivos
 
 🪪 Validação de CPF
